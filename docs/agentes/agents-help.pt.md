@@ -140,7 +140,7 @@ Um bom consultor de preço não começa pelo número. Antes, ele pergunta como v
 
 Um diretor de arte premiado não aceita o template que todo mundo usa. Ele olha a tela que você já tem, pergunta para quem ela existe e o que o visitante precisa conseguir fazer, e só então decide: deixar mais ousada, mais quieta, mais clara, mais rápida. Ele trabalha com 24 comandos de design (`critique`, `audit`, `polish`, `bolder`, `quieter`, `animate`, `typeset`, `layout`, `harden`, entre outros) e verifica o resultado olhando a tela renderizada, não só o código.
 
-> Use o Impeccable quando a interface precisa de design de verdade: site, landing page, dashboard, formulário, componente ou tela nativa. Rode `/impeccable init` uma vez por projeto e depois `/impeccable <comando> <alvo>`. É o framework [Impeccable](https://impeccable.style) de Paul Bakaus, entregue junto com o Reversa sob a licença Apache 2.0.
+> Use o Impeccable quando a interface precisa de design de verdade: site, landing page, dashboard, formulário, componente ou tela nativa. Rode `/impeccable init` uma vez por projeto e depois `/impeccable <comando> <alvo>`. É o framework [Impeccable](https://github.com/pbakaus/impeccable) criado por Paul Bakaus ([site](https://impeccable.style)), entregue junto com o Reversa sob a licença Apache 2.0, com todos os créditos ao autor.
 
 ---
 

@@ -140,7 +140,7 @@ A good pricing consultant doesn't start with a number. First they ask how you wa
 
 An award-winning art director does not accept the template everyone else uses. They look at the screen you already have, ask who it exists for and what the visitor needs to get done, and only then decide: bolder, quieter, clearer, faster. They work with 24 design commands (`critique`, `audit`, `polish`, `bolder`, `quieter`, `animate`, `typeset`, `layout`, `harden`, among others) and verify the result by looking at the rendered screen, not just the code.
 
-> Use Impeccable when the interface needs real design: website, landing page, dashboard, form, component or native screen. Run `/impeccable init` once per project, then `/impeccable <command> <target>`. It is the [Impeccable](https://impeccable.style) framework by Paul Bakaus, shipped with Reversa under the Apache License 2.0.
+> Use Impeccable when the interface needs real design: website, landing page, dashboard, form, component or native screen. Run `/impeccable init` once per project, then `/impeccable <command> <target>`. It is the [Impeccable](https://github.com/pbakaus/impeccable) framework created by Paul Bakaus ([website](https://impeccable.style)), shipped with Reversa under the Apache License 2.0, with full credit to its author.
 
 ---
 

@@ -138,7 +138,7 @@ Un buen consultor de precios no empieza por el número. Antes pregunta cómo qui
 
 Un director de arte premiado no acepta la plantilla que todos usan. Mira la pantalla que ya tienes, pregunta para quién existe y qué necesita lograr el visitante, y solo entonces decide: más audaz, más tranquila, más clara, más rápida. Trabaja con 24 comandos de diseño (`critique`, `audit`, `polish`, `bolder`, `quieter`, `animate`, `typeset`, `layout`, `harden`, entre otros) y verifica el resultado mirando la pantalla renderizada, no solo el código.
 
-> Usa Impeccable cuando la interfaz necesita diseño de verdad: sitio, landing page, dashboard, formulario, componente o pantalla nativa. Ejecuta `/impeccable init` una vez por proyecto y luego `/impeccable <comando> <objetivo>`. Es el framework [Impeccable](https://impeccable.style) de Paul Bakaus, entregado junto con Reversa bajo la licencia Apache 2.0.
+> Usa Impeccable cuando la interfaz necesita diseño de verdad: sitio, landing page, dashboard, formulario, componente o pantalla nativa. Ejecuta `/impeccable init` una vez por proyecto y luego `/impeccable <comando> <objetivo>`. Es el framework [Impeccable](https://github.com/pbakaus/impeccable) creado por Paul Bakaus ([sitio](https://impeccable.style)), entregado junto con Reversa bajo la licencia Apache 2.0, con todo el crédito a su autor.
 
 ---
 

@@ -1,6 +1,6 @@
 # Front-end Team (Impeccable)
 
-The **Front-end Team** is [Impeccable](https://impeccable.style), the design framework by Paul Bakaus, shipped with Reversa under the [Apache License 2.0](https://github.com/sandeco/reversa/blob/main/agents/impeccable/LICENSE). It is one skill with 24 design commands for websites, landing pages, dashboards, product UI, components, forms and native iOS or Android screens.
+The **Front-end Team** is [Impeccable](https://github.com/pbakaus/impeccable), the design framework created by [Paul Bakaus](https://github.com/pbakaus), shipped with Reversa under the [Apache License 2.0](https://github.com/sandeco/reversa/blob/main/agents/impeccable/LICENSE). It is one skill with 24 design commands for websites, landing pages, dashboards, product UI, components, forms and native iOS or Android screens.
 
 Pre-checked in the installer. Installed as the `impeccable` skill, side by side with the Reversa agents.
 
@@ -64,6 +64,16 @@ node scripts/sync-impeccable.mjs            # latest release
 node scripts/sync-impeccable.mjs --tag skill-v4.7.0
 node scripts/sync-impeccable.mjs --check    # compare only
 ```
+
+---
+
+## Credits
+
+Impeccable is created and maintained by **[Paul Bakaus](https://github.com/pbakaus)**. The skill, its 24 commands, the detector rules and the design guidance are his work; Reversa only packages and distributes an unmodified copy as its Front-end Team.
+
+- Source code: [github.com/pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+- Website and documentation: [impeccable.style](https://impeccable.style)
+- Releases used by Reversa: [github.com/pbakaus/impeccable/releases](https://github.com/pbakaus/impeccable/releases)
 
 ---
 
