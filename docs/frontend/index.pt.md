@@ -71,6 +71,8 @@ node scripts/sync-impeccable.mjs --check    # só compara
 
 O Impeccable é criado e mantido por **[Paul Bakaus](https://github.com/pbakaus)**. A skill, os 24 comandos, as regras do detector e a orientação de design são obra dele; o Reversa apenas empacota e distribui uma cópia sem alterações como seu Time de Front-end.
 
+O Reversa poderia ter feito a engenharia reversa da documentação do Impeccable e reconstruído a orientação dele com nome próprio. Isso seria desonesto e injusto com o autor, que fez um excelente trabalho ao produzir uma biblioteca de design de front-end tão boa. Por isso o Reversa entrega a obra dele como está, sob a licença dele, e dá a ele o reconhecimento que merece por esse trabalho.
+
 - Código-fonte: [github.com/pbakaus/impeccable](https://github.com/pbakaus/impeccable)
 - Site e documentação: [impeccable.style](https://impeccable.style)
 - Releases usadas pelo Reversa: [github.com/pbakaus/impeccable/releases](https://github.com/pbakaus/impeccable/releases)
